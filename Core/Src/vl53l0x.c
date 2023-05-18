@@ -10,7 +10,7 @@
 
 #define DEBUG_MSG
 
-#ifdef DUBUG_MSG
+#ifdef DEBUG_MSG
 #include "stdio.h"
 #endif
 
